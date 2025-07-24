@@ -1,0 +1,20 @@
+Creating dataset LibriSpeech/train-other-500 on Thursday 11 April 2024 at 16:55
+-----
+Parameter values:
+	audio_norm_target_dBFS: -30
+	inference_n_frames: 80
+	mel_n_channels: 40
+	mel_window_length: 25
+	mel_window_step: 10
+	partials_n_frames: 160
+	sampling_rate: 16000
+	vad_max_silence_length: 6
+	vad_moving_average_width: 8
+	vad_window_length: 30
+-----
+Statistics:
+	duration:
+		min 3.330, max 17.640
+		mean 9.018, median 8.550
+-----
+Finished on Thursday 11 April 2024 at 16:55
